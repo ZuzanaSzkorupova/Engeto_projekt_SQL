@@ -47,7 +47,8 @@ V každém odvětví se tedy spíše jedná o **jednorázové meziroční výkyv
 
 **2. Kolik litrů mléka a kilogramů chleba je možné si zakoupit za průměrnou mzdu v prvním a posledním srovnatelném období dostupných dat o cenách a mzdách?**
 
-V roce 2006 bylo možné za průměrnou mzdu ve všech sledovaných odvětvích koupit **1 287,18 kusů chleba** nebo **1 437,44 litru mléka**. Na konci sledovaného období se tento objem zvýšil, a to v důsledku růstu průměrné mzdy, a to navzdory zdražení těchto dvou vybraných potravin. V roce 2018 bylo možné za celkovou průměrnou mzdu koupit **1 342,33 kusů chleba** nebo **1 641,64 litru mléka**.
+V roce 2006 bylo možné za průměrnou mzdu ve všech sledovaných odvětvích koupit **1 287,18 kusů chleba** nebo **1 437,44 litru mléka**. Na konci sledovaného období se tento objem zvýšil, a to v důsledku růstu průměrné mzdy, a to navzdory zdražení těchto dvou vybraných potravin. V roce 2018 bylo možné za celkovou průměrnou mzdu koupit **1 342,33 kusů chleba** nebo **1 641,64 litru mléka**. [SQL_script](2_research_question.sql)
+
 
 **3. Která kategorie potravin zdražuje nejpomaleji, tedy vykazuje nejnižší meziroční procentuální nárůst cen?**
 
